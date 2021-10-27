@@ -1,3 +1,4 @@
+I made a change 
 function Output=getTEX86(varargin)
 
     % getTEX86 calculates the peak areas, TEX86 and BIT indices. We assume that each
